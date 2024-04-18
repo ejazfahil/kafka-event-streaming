@@ -1,4 +1,4 @@
-"""Kafka consumer 2023-11-16"""
+"""Kafka consumer 2024-04-18"""
 import json
 from confluent_kafka import Consumer, KafkaError
 
