@@ -1,4 +1,4 @@
-"""DLQ 2023-12-13"""
+"""DLQ 2024-05-14"""
 import json
 from datetime import datetime, timezone
 from confluent_kafka import Producer
